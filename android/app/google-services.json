@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "225410169279",
+    "project_id": "bookgram-a9f5f",
+    "storage_bucket": "bookgram-a9f5f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:225410169279:android:ebc4c07fe1b74ad343090a",
+        "android_client_info": {
+          "package_name": "com.example.bookgram"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "225410169279-qc8rpbfbcvqte06oguaj1dq7ejrijhft.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAeJOnPgvubvTRbAIt1ucJoOFU31Nb5v9A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "225410169279-qc8rpbfbcvqte06oguaj1dq7ejrijhft.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
